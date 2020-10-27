@@ -15,19 +15,33 @@ From this project I learned that there are vastly different ways of arriving to 
 * [Credits](#credits)
 * [License](#license)
 
-
 ## Installation
 
 1) Make sure to have properly functioning computer.
 2) Check if an internet browswer is installed. If so, go to step 4).
 3) Install an internet browser of your choice. 
 4) Open up internet web browser.
-5) In the address bar, type in :  < URL > and hit "enter" on the keyboard.
+5) In the address bar, type in :  https://karm3nz.github.io/Code-Quiz/ and hit "enter" on the keyboard.
 
 ## Usage 
 
 Provide instructions and examples for use. Include screenshots as needed. 
 
+To arrive at the Code Quiz webpage, type in :  https://karm3nz.github.io/Code-Quiz/ on the address bar on the web browser and hit the "enter" key.
+
+![Code Quiz Home Page Screenshot](codeQuiz_homePage.png)
+
+At the home page, the start button is displayed to begin the quiz (click the start button to begin quiz). After beginning the quiz, first question is displayed. User can click on the following answers to answer each question, and to prompt the next question.
+
+![Code Quiz First Question Screenshot](codeQuiz_beginQuiz.png)
+
+After the user finishes the quiz, the user will be prompted to enter their name to set their score.
+
+![Code Quiz Set Score Screenshot](codeQuiz_setScore.png)
+
+Once the score is set, the user can choose to clear their score and/or start the quiz again.
+
+![Code Quiz Clear Score Screenshot](codeQuiz_clearScore.png)
 
 ## Credits
 
@@ -42,39 +56,27 @@ https://github.com/wendyhub/code-quiz
 How to Make a Simple JavaScript Quiz:
 https://www.sitepoint.com/simple-javascript-quiz/
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+MIT License
 
+Copyright (c) [2020] [Carmen Hui]
 
----
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
-
-
----
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
