@@ -1,0 +1,71 @@
+/* CSS for Code Quiz! */
+*, *::before, * ::after{
+    box-sizing: border-box;
+    font-family: 'Zilla Slab', serif;
+}
+
+/* nav bar */
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+#nav {
+    display: block;
+    background-color: white;
+    display: inline-block;
+    width: 98vw;
+    border: 3px solid #1b815a;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+/* main section */
+:root {
+    background-color: #77c5a7;
+}
+
+#quizBody {
+    text-align: center;
+    padding: 10vh;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    padding: 10px 8px 10px 8px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    border: none;
+    background-color: #1b815a;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 16px 10px 16px;
+    font-size: 20px;
+    margin: 4px;
+}
+
+button:hover {
+    transition-duration: 0.4s;
+    background-color: #1b815a;
+}
+
+#quiz {
+    text-align: center;
+}
