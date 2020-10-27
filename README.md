@@ -2,22 +2,13 @@
 
 ## Description 
 
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
+Let it be preparation for an interview, to making sure that you have the basic fundamental knowledge down, a code quiz can offer support in all these areas! This quiz does exactly just that for Javascript fundamental questions on functions, array, and string methods.
 
-The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
+Some of the features of this code quiz is that it displays a countdown timer at the start of quiz, tallys score of the use based on how many questions are correctly answered, as well as how fast the user answers the questions, and stores/clears highscore in local storage.
 
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? If your project has a lot of features, consider adding a heading called "Features" and listing them here.
-
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
-
+From this project I learned that there are vastly different ways of arriving to the same outcome. Some paths make it less likely to encounter errors, are easier to read, while others are albeit a bit harder to read, display the functions to be executed from a different perspective. Due to time constraint, I've learned to make a list of projects to revisit exploring other methods to arrive to the same outcome.  
 
 ## Table of Contents
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -27,8 +18,11 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
+1) Make sure to have properly functioning computer.
+2) Check if an internet browswer is installed. If so, go to step 4).
+3) Install an internet browser of your choice. 
+4) Open up internet web browser.
+5) In the address bar, type in :  < URL > and hit "enter" on the keyboard.
 
 ## Usage 
 
@@ -36,7 +30,17 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 
 ## Credits
+
 ### Links to Tutorials/References Reffered to on Project:
+
+Build A Quiz App With JavaScript (video):
+https://www.youtube.com/watch?v=riDzcEQbX6k
+
+Code Quiz:
+https://github.com/wendyhub/code-quiz
+
+How to Make a Simple JavaScript Quiz:
+https://www.sitepoint.com/simple-javascript-quiz/
 
 List your collaborators, if any, with links to their GitHub profiles.
 
