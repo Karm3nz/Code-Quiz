@@ -2,9 +2,9 @@
 
 ## Description 
 
-Let it be preparation for an interview, to making sure that you have the basic fundamental knowledge down, a code quiz can offer support in all these areas! This quiz does exactly just that for Javascript fundamental questions on functions, array, and string methods.
+Let it be a preparation for an interview, to making sure that you have the basic fundamental knowledge down, a code quiz can offer support in all these areas! This quiz does exactly just that for Javascript fundamental questions on functions, array, and string methods.
 
-Some of the features of this code quiz is that it displays a countdown timer at the start of quiz, tallys score of the use based on how many questions are correctly answered, as well as how fast the user answers the questions, and stores/clears highscore in local storage.
+Some of the features of this code quiz is that it displays a countdown timer at the start of quiz, tallys score of the user based on how many questions are correctly answered, how fast questions are answered, as well as stores/clears highscore in local storage.
 
 From this project I learned that there are vastly different ways of arriving to the same outcome. Some paths make it less likely to encounter errors, are easier to read, while others are albeit a bit harder to read, display the functions to be executed from a different perspective. Due to time constraint, I've learned to make a list of projects to revisit exploring other methods to arrive to the same outcome.  
 
